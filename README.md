@@ -1,1 +1,1 @@
-<img src="./ocr_vs_baidu2.pdf"> 
+<img src="ocr_vs_baidu2.pdf"> 
