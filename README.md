@@ -1,1 +1,1 @@
-![image](ocr_vs_baidu2.pdf)
+![image](./ocr_vs_baidu2.pdf)
